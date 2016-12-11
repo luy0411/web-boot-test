@@ -42,6 +42,7 @@
     </dependencies>
 
     <build>
+        <finalName>web-boot-test</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
