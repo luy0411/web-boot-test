@@ -10,7 +10,7 @@ public class MainController {
     @RequestMapping(value = "/")
     @ResponseBody
     public String home(){
-        return "Welcome to Web-Boot-Test";
+        return "Welcome to Web-Boot-Test2";
     }
 
 }
